@@ -1,0 +1,1 @@
+Simple CRUD Web Application with JSF 2.1, PrimeFaces 3.5, EJB 3.1, JPA (ORM) / EclipseLink, JAAS , MySQL
